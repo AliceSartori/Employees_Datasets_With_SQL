@@ -17,4 +17,4 @@ To confirm my suspicions,, I used SQLAlchemy and Pandas to investigate further:
 It looks like the salary ranges are all very low (inflation could be a factor here as the CSV refer to the 80' and 90'), but engineering jobs are paid less than other types of jobs (staff). 
 Also, there is no discrepancy between M and W salaries, which seems to equal each other. Historically, Men were paid much more than Women.
 It seems like these CSVs were created ad hoc to challange my skills.
-
+Challenge accepted!!!
