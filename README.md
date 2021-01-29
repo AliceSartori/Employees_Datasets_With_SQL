@@ -14,5 +14,7 @@ To confirm my suspicions,, I used SQLAlchemy and Pandas to investigate further:
 
 ![Average Salay By Title](https://github.com/AliceSartori/sql-challenge/blob/main/Average%20salary%20by%20Sex.png)
 
-It looks like the salary ranges are all very low (inflation could be a factor here as the datasets are old) but engineering jobs are paid less than other types of jobs.
-Also, there is no discrepancy between M and W salaries. 
+It looks like the salary ranges are all very low (inflation could be a factor here as the CSV refer to the 80' and 90'), but engineering jobs are paid less than other types of jobs (staff). 
+Also, there is no discrepancy between M and W salaries, which seems to equal each other. Historically, Men were paid much more than Women.
+It seems like these CSVs were created ad hoc to challange my skills.
+
