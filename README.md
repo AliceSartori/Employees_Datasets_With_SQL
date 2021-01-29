@@ -11,3 +11,6 @@ Data Engineering
 Data Analysis
 
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. To confirm my suspiction, I imported the SQL database into Pandas to investigate. 
+
+
+https://github.com/AliceSartori/sql-challenge/blob/main/Salary%20ranges%20for%20employees.png
