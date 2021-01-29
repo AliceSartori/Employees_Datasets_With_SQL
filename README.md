@@ -14,3 +14,6 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 ![Salary Ranges for Employees](https://github.com/AliceSartori/sql-challenge/blob/main/Salary%20ranges%20for%20employees.png)
 
+
+![Average Salay By Title](https://github.com/AliceSartori/sql-challenge/blob/main/Average%20salary%20by%20Title.png)
+
